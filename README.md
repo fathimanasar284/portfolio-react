@@ -3,7 +3,7 @@
 A responsive and modern personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**.  
 It showcases my **skills**, **projects**, **education**, and **contact information** in a professional way.
 
-🔗 **Live Demo:** [https://portfolio-react-alpha-eight-33.vercel.app/](https://portfolio-react-alpha-eight-33.vercel.app/)
+🔗 **Live Demo:** [https://portfolio-react-omqh.vercel.app/)
 
 ---
 
